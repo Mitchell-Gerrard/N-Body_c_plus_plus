@@ -28,8 +28,8 @@ At a timestep of 60 seconds, both methods produced comparable orbital trajectori
 
 Forward Euler exhibited greater energy drift over time, while RK4 maintained significantly better energy conservation. Reducing the timestep improved the energy behaviour of both methods, demonstrating the influence of timestep size on numerical accuracy.
 <p align="center">
-  <img src="figure/total_energy_comparison_9.99years_dt30s" width="48%" />
-  <img src="figure/total_energy_comparison_9.99years_dt60s" width="48%" />
+  <img src="figure/total_energy_comparison_9.99years_dt30s.png" width="48%" />
+  <img src="figure/total_energy_comparison_9.99years_dt60s.png" width="48%" />
 </p>
 These results show the trade-off between computational simplicity and numerical accuracy when choosing an integration method.
 
