@@ -15,6 +15,7 @@ The implementation uses C++ structs and vectors to represent the bodies and thei
 <p align="center">
   <img src="figure/earth_sun_simulation_9.99years_dt60s.gif" width="65%" />
 </p>
+
 ## Results and Numerical Comparison
 
 The integration methods were compared over ten orbital periods, examining:
