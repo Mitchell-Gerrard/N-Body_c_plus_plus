@@ -2,3 +2,6 @@
 .vscode
 *.csv
 nbody
+__pycache__
+*.pyc
+.env

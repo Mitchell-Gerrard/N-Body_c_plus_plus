@@ -44,8 +44,17 @@ These results show the trade-off between computational simplicity and numerical 
 
 Compile using a C++ compiler:
 
+Compile using a C++17 compiler:
+
+```bash
 g++ -O2 -std=c++17 main.cpp -o nbody
+```
+
+Run the executable:
+
+```bash
 ./nbody
+```
 
 Simulation results are written to a CSV for later analysis.
 
